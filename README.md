@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohannes Shimelis</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | React Expert | AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnshimelis&label=Profile%20views&color=0e75b6&style=flat" alt="johnshimelis" /> </p>
 
